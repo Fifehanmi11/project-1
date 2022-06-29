@@ -8,6 +8,6 @@
 
 ![Apache status](./images/apache-status.PNG)
 
-[install openssh key management](docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
+[install openssh key management](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
 
-[openssh-keymanagement](docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
+[openssh-keymanagement](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
